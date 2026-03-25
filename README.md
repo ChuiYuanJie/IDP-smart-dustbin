@@ -1,3 +1,8 @@
+Project presentation with demo
+
+https://www.canva.com/design/DAGna-9DOiU/-WBc8NcdXLHUX8eQ5wp06g/edit?utm_content=DAGna-9DOiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 Project: Intelligent Waste Management System (Smart Dustbin)
 Role: Lead Hardware Integration & Control Logic (Automatic Lid Mechanism)
 
@@ -26,6 +31,3 @@ Mechanical Advantage: Calibrated the servo horn angle and linkage length to ensu
 Power Stability: Solved "brown-out" issues where the sensor would reset when the motor started by adding a decoupling capacitor (if you did this) or isolating the power rails.
 
 
-Project presentation with demo
-
-https://www.canva.com/design/DAGna-9DOiU/-WBc8NcdXLHUX8eQ5wp06g/edit?utm_content=DAGna-9DOiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
